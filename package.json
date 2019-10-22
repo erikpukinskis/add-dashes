@@ -1,6 +1,6 @@
 {
   "name": "add-dashes",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert arbitrary text to kebab-case",
   "main": "add-dashes.js",
   "dependencies": {
